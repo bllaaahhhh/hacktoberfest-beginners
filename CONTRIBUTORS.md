@@ -123,6 +123,11 @@
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892)
  
+ #### Name: [Herat Patel](https://github.com/harrymkwn)
+ - Place: Rajkot, Gujarat, India
+ - Bio: Traveller && lerner &&  developer === true
+ - GitHub: [harrymkwn](https://github.com/harrymkwn)
+ 
  #### Name: [Nikhil Kumar Gautam](https://github.com/nikhilkrgautam)
   - Place: Surat, Gujarat, India
   - Bio: Footballer and wanna be a competitive coder

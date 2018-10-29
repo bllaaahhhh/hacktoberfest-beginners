@@ -126,7 +126,7 @@
  #### Name: [Herat Patel](https://github.com/harrymkwn)
  - Place: Rajkot, Gujarat, India
  - Bio: Traveller && lerner &&  developer === true
- - GitHub: [harrymkwn](https://github.com/harrymkwn)
+ - GitHub: [harrymkwn] (https://github.com/harrymkwn)
  
  #### Name: [Nikhil Kumar Gautam](https://github.com/nikhilkrgautam)
   - Place: Surat, Gujarat, India
